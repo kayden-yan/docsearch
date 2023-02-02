@@ -1,0 +1,10 @@
+      81    6973   46915 written_2/non-fiction/OUP/Abernathy/ch1.txt
+      78    5918   39905 written_2/non-fiction/OUP/Abernathy/ch14.txt
+      78    6544   43918 written_2/non-fiction/OUP/Abernathy/ch15.txt
+      77    6708   44782 written_2/non-fiction/OUP/Abernathy/ch2.txt
+      68    5273   35141 written_2/non-fiction/OUP/Abernathy/ch3.txt
+      83    6689   42225 written_2/non-fiction/OUP/Abernathy/ch6.txt
+      70    6718   42444 written_2/non-fiction/OUP/Abernathy/ch7.txt
+      80    8619   52468 written_2/non-fiction/OUP/Abernathy/ch8.txt
+      54    5331   31283 written_2/non-fiction/OUP/Abernathy/ch9.txt
+     669   58773  379081 total
